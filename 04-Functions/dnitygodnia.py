@@ -12,7 +12,7 @@ def day_name(day_number):
     elif day_number == 6:
         result = 'Saturday'
     elif day_number == 7:
-        result = 'Sundday'
+        result = 'Sunday'
     else:
         result = 'Unknown day'
 
